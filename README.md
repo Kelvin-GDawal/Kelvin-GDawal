@@ -3,12 +3,10 @@
 # Hello, I'm Kelvin
 <a href="https://www.linkedin.com/in/kelvin-knicks-guevara-dawal-072a442b2"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am currently a IT Support specialist with a huge passion for cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My experience in information technology has led me to develop a massive interest in cybersecurity, I am very eager to transition into this field, hoping to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
