@@ -54,5 +54,5 @@ My experience in information technology has led me to develop a massive interest
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Kelvin-GDawal/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
