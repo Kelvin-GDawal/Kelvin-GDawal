@@ -48,7 +48,7 @@ My experience in information technology has led me to develop a massive interest
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://miro.medium.com/v2/resize:fit:714/0*frTvbcRP5Xo2FW1u" />
+<img src="https://img.shields.io/badge/-ISC2-468145?style=flat&logo=isc2&logoColor=white"/>
 </div>
 
 ## Projects
