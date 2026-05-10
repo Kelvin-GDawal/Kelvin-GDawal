@@ -67,14 +67,7 @@ I am a Security Analyst with a foundation in IT support and a strong focus on bl
   <img src="https://img.shields.io/badge/Shuffle%20SOAR-111827?style=for-the-badge&logoColor=white" alt="Shuffle SOAR" />
 </p>
 
-## Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
-  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+" />
-  <img src="https://img.shields.io/badge/CompTIA%20A%2B-4D4D4D?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" />
-  <img src="https://img.shields.io/badge/ISC2-468145?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2" />
-</p>
 
 ## Current Focus
 
