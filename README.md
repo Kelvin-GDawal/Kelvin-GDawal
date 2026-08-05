@@ -11,11 +11,11 @@
   </a>
 </p>
 
-I'm an IT Support Specialist at HeartShare Human Services with a security focus, previously supporting 200+ onsite and remote users at Sunnyside Community Services. I came into IT/security after a first career in nursing, and I build and document practical security work alongside day-to-day support: identity and access management, incident response, and infrastructure I run in my own lab.
+I'm an IT Support Specialist at HeartShare Human Services with a security focus, supporting an organization of 1,500+ users, previously supporting 200+ onsite and remote users at Sunnyside Community Services. I came into IT/security after a first career in nursing, and I build and document practical security work alongside day-to-day support: identity and access management, incident response, and infrastructure I run in my own lab.
 
 ## What I Bring
 
-- Hands-on IT support: troubleshooting, endpoint support, user support, and operational problem solving across 200+ users.
+- Hands-on IT support: troubleshooting, endpoint support, user support, and operational problem solving across organizations ranging from 200+ to 1,500+ users.
 - Identity and access administration: Microsoft Entra ID, MFA, Conditional Access, RBAC, Microsoft 365, and Intune.
 - Security operations: incident response, log analysis, phishing investigation, device compliance, and vulnerability remediation.
 - Experience working with third-party SOC/MDR providers (Arctic Wolf), cyber-risk assessments, and response/business-continuity planning.
