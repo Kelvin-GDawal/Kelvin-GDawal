@@ -1,6 +1,6 @@
 # Kelvin Knicks Guevara-Dawal
 
-**Security Analyst | Former IT Support Specialist | Cybersecurity Portfolio**
+**IT Support Specialist | Security-Focused | Queens, NY**
 
 <p>
   <a href="https://www.linkedin.com/in/kelvin-knicks-guevara-dawal-072a442b2">
@@ -11,71 +11,40 @@
   </a>
 </p>
 
-I am a Security Analyst with a foundation in IT support and a strong focus on blue-team operations. My portfolio highlights practical work in collecting telemetry, analyzing suspicious activity, documenting findings, and building repeatable workflows that support detection and incident response.
+I'm an IT Support Specialist at HeartShare Human Services with a security focus, previously supporting 200+ onsite and remote users at Sunnyside Community Services. I came into IT/security after a first career in nursing, and I build and document practical security work alongside day-to-day support: identity and access management, incident response, and infrastructure I run in my own lab.
 
 ## What I Bring
 
-- Former IT support experience with troubleshooting, endpoint support, user support, and operational problem solving.
-- Practical cybersecurity lab work focused on SIEM concepts, network traffic analysis, alert investigation, and defensive tooling.
-- Security analyst experience and continued growth in SOC responsibilities, including triage, escalation, documentation, and continuous improvement.
-- A habit of turning labs into written case studies so the process, evidence, and lessons learned are easy to review.
+- Hands-on IT support: troubleshooting, endpoint support, user support, and operational problem solving across 200+ users.
+- Identity and access administration: Microsoft Entra ID, MFA, Conditional Access, RBAC, Microsoft 365, and Intune.
+- Security operations: incident response, log analysis, phishing investigation, device compliance, and vulnerability remediation.
+- Experience working with third-party SOC/MDR providers (Arctic Wolf), cyber-risk assessments, and response/business-continuity planning.
+- A habit of documenting real work as repeatable playbooks and reference material, not just tickets closed.
 
-## Portfolio Projects
+## Projects
 
-| Project | Focus | Tools / Concepts | Status |
-| --- | --- | --- | --- |
-| [Detection Lab](https://github.com/Kelvin-GDawal/Detection-Lab) | Controlled environment for generating and analyzing security telemetry | SIEM fundamentals, log analysis, Wireshark, attack simulation, detection notes | In progress |
-| SOC Automation Lab | Alert enrichment and response workflow practice | Shuffle SOAR, TheHive, case management, incident response process | Planned |
-| Network Traffic Analysis Cases | Packet review and suspicious traffic writeups | Wireshark, Zeek concepts, protocol analysis, indicators of compromise | Planned |
-| Endpoint Investigation Notes | Endpoint-focused triage and investigation practice | Microsoft Defender concepts, Velociraptor concepts, Windows artifacts | Planned |
+| Project | Focus | Tools / Concepts |
+|---|---|---|
+| Enterprise RBAC/IAM System | On-prem AD + Entra ID + Intune access model spanning Sophos and Global Admin access | AGDLP group nesting, OU delegation, least privilege, Read/Write/Full tiers, Tier 0 separation |
+| Email Compromise IR Playbook | End-to-end incident response guide aligned to NIST CSF 2.0, detection through recovery | Entra ID, Exchange Online, M365, SharePoint/OneDrive, Graph, Purview, Defender |
+| Access-Risk Scoring Spreadsheet | Structured risk-tier model mapping access types to risk level | Risk tiering (Minimal/Low/Moderate/High), access governance |
+| Home Lab (Proxmox) | Simulated enterprise environment for hands-on practice | Proxmox virtualization, Docker, VLAN segmentation, isolated networking, VPN, log analysis, MITRE ATT&CK mapping |
+| [Detection Lab](https://github.com/Kelvin-GDawal/Detection-Lab) | Blue-team lab for security monitoring, log analysis, and alert investigation | SIEM fundamentals, log analysis, Wireshark, attack simulation, detection notes (in progress) |
 
 ## Skills
 
-| Area | Capabilities I Am Building |
-| --- | --- |
-| SIEM & Log Analysis | Ingesting logs, reviewing events, identifying suspicious patterns, writing investigation notes |
-| Network Security Monitoring | Reading packet captures, understanding protocols, spotting unusual traffic behavior |
-| Incident Response | Triage, scoping, documentation, escalation notes, containment decision support |
-| Security Automation | Building repeatable workflows for alert handling, enrichment, and case creation |
-| Endpoint Security | Reviewing endpoint alerts, understanding host artifacts, mapping activity to likely behavior |
-| Documentation | Writing clear lab reports, detection summaries, and lessons learned |
+| Area | Capabilities |
+|---|---|
+| Identity & Access | Entra ID, Conditional Access, RBAC design, AGDLP group nesting, OU delegation, least privilege |
+| Security Operations | Incident detection through recovery, log analysis, phishing investigation, SOC/MDR coordination |
+| Endpoint & Compliance | Intune device compliance, vulnerability remediation, Microsoft 365 security |
+| Documentation | Incident response playbooks, risk-tier frameworks, NIST CSF 2.0-aligned process docs |
+| Infrastructure | Proxmox virtualization, Docker, VLAN segmentation, VPN, network isolation |
 
-## Tools
+## Career Direction
 
-### Network Analysis
+Transitioning further into cybersecurity/SOC Analyst work, with a longer-term interest in infrastructure-heavy paths — Infrastructure, Platform, Cloud Engineering, or SRE.
 
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata" />
-  <img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logoColor=white" alt="Zeek" />
-</p>
+## Background
 
-### SIEM & Detection
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
-  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic" />
-</p>
-
-### Endpoint & Response
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender" />
-  <img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logoColor=white" alt="Velociraptor" />
-  <img src="https://img.shields.io/badge/TheHive-F6C343?style=for-the-badge&logoColor=black" alt="TheHive" />
-  <img src="https://img.shields.io/badge/Shuffle%20SOAR-111827?style=for-the-badge&logoColor=white" alt="Shuffle SOAR" />
-</p>
-
-
-
-## Current Focus
-
-- Improving the Detection Lab with screenshots, queries, sample alerts, and investigation writeups.
-- Building small SOC-style case studies that show alert triage from signal to conclusion.
-- Practicing clear, concise documentation suitable for handoff to senior analysts.
-- Expanding automation practice with enrichment, case creation, and response workflow examples.
-
-## How To Read This Portfolio
-
-Each project is intended to show more than tool familiarity. I document the objective, environment, steps taken, evidence collected, findings, and what I would improve next. The goal is to make my thought process visible and demonstrate the habits expected in a professional SOC environment.
+BS in Nursing (2009-2016), pivoted into IT/security after graduation. Everything above reflects work built since that switch.
