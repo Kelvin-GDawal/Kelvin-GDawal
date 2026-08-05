@@ -25,7 +25,7 @@ I'm an IT Support Specialist at HeartShare Human Services with a security focus,
 
 | Project | Focus | Tools / Concepts |
 |---|---|---|
-| Enterprise RBAC/IAM System | On-prem AD + Entra ID + Intune access model spanning Sophos and Global Admin access | AGDLP group nesting, OU delegation, least privilege, Read/Write/Full tiers, Tier 0 separation |
+| [Entra ID RBAC & Conditional Access as Code](https://github.com/Kelvin-GDawal/identity-access-as-code) | Sanitized, portfolio version of the AGDLP-based IAM model I run in production: on-prem AD + Entra ID + Intune, deployed via Microsoft Graph PowerShell | AGDLP group nesting, OU delegation, least privilege, Read/Write/Full tiers, Tier 0 separation, Conditional Access as code |
 | Email Compromise IR Playbook | End-to-end incident response guide aligned to NIST CSF 2.0, detection through recovery | Entra ID, Exchange Online, M365, SharePoint/OneDrive, Graph, Purview, Defender |
 | Access-Risk Scoring Spreadsheet | Structured risk-tier model mapping access types to risk level | Risk tiering (Minimal/Low/Moderate/High), access governance |
 | Home Lab (Proxmox) | Simulated enterprise environment for hands-on practice | Proxmox virtualization, Docker, VLAN segmentation, isolated networking, VPN, log analysis, MITRE ATT&CK mapping |
