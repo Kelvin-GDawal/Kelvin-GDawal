@@ -3,12 +3,12 @@
 **IT Support Specialist | Security-Focused | Queens, NY**
 
 <p>
-  <a href="https://www.linkedin.com/in/kelvin-knicks-guevara-dawal-072a442b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Kelvin-GDawal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://www.linkedin.com/in/kelvin-knicks-guevara-dawal-072a442b2">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Kelvin-GDawal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 </p>
 
 I'm an IT Support Specialist at HeartShare Human Services with a security focus, supporting an organization of 1,500+ users, previously supporting 200+ onsite and remote users at Sunnyside Community Services. I came into IT/security after a first career in nursing, and I build and document practical security work alongside day-to-day support: identity and access management, incident response, and infrastructure I run in my own lab.
@@ -30,6 +30,7 @@ I'm an IT Support Specialist at HeartShare Human Services with a security focus,
 | [Access Risk Scoring Engine](https://github.com/Kelvin-GDawal/access-risk-scoring-engine) | Automated, tested version of the risk-tier scoring spreadsheet - scores users by access risk with a documented reason per point | Python, risk tiering (Minimal/Low/Moderate/High/Critical), access governance, unit tested |
 | [Conditional Access Policy Drift Detector](https://github.com/Kelvin-GDawal/ca-policy-drift-detector) | Diffs live CA policy exports against a version-controlled baseline, flags drift with severity scoring | Python, Conditional Access, policy-as-code, unit tested |
 | [Orphaned Access Auditor](https://github.com/Kelvin-GDawal/orphaned-access-auditor) | Audits Entra ID for orphaned access: disabled accounts that still hold active app/license assignments, and stale privileged accounts with no recent sign-in | Python, Microsoft Graph API, access reviews, unit tested |
+| [MFA / CA Compliance Reporter](https://github.com/Kelvin-GDawal/mfa-ca-compliance-reporter) | Audits Entra ID for MFA coverage gaps: users with no MFA registered, and users not covered by any Conditional Access policy that enforces MFA | Python, Microsoft Graph API, Conditional Access, unit tested |
 | Home Lab (Proxmox) | Simulated enterprise environment for hands-on practice | Proxmox virtualization, Docker, VLAN segmentation, isolated networking, VPN, log analysis, MITRE ATT&CK mapping |
 | [Detection Lab](https://github.com/Kelvin-GDawal/Detection-Lab) | Blue-team lab for security monitoring, log analysis, and alert investigation | SIEM fundamentals, log analysis, Wireshark, attack simulation, detection notes (in progress) |
 
