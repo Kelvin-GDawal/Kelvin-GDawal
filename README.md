@@ -26,7 +26,7 @@ I'm an IT Support Specialist at HeartShare Human Services with a security focus,
 | Project | Focus | Tools / Concepts |
 |---|---|---|
 | [Entra ID RBAC & Conditional Access as Code](https://github.com/Kelvin-GDawal/identity-access-as-code) | Sanitized, portfolio version of the AGDLP-based IAM model I run in production: on-prem AD + Entra ID + Intune, deployed via Microsoft Graph PowerShell | AGDLP group nesting, OU delegation, least privilege, Read/Write/Full tiers, Tier 0 separation, Conditional Access as code |
-| Email Compromise IR Playbook | End-to-end incident response guide aligned to NIST CSF 2.0, detection through recovery | Entra ID, Exchange Online, M365, SharePoint/OneDrive, Graph, Purview, Defender |
+| [Email Compromise IR Playbook](https://github.com/Kelvin-GDawal/email-compromise-ir-playbook) | End-to-end incident response guide aligned to NIST CSF 2.0, detection through recovery | Entra ID, Exchange Online, M365, SharePoint/OneDrive, Purview, Defender, PowerShell, KQL |
 | [Access Risk Scoring Engine](https://github.com/Kelvin-GDawal/access-risk-scoring-engine) | Automated, tested version of the risk-tier scoring spreadsheet - scores users by access risk with a documented reason per point | Python, risk tiering (Minimal/Low/Moderate/High/Critical), access governance, unit tested |
 | Home Lab (Proxmox) | Simulated enterprise environment for hands-on practice | Proxmox virtualization, Docker, VLAN segmentation, isolated networking, VPN, log analysis, MITRE ATT&CK mapping |
 | [Detection Lab](https://github.com/Kelvin-GDawal/Detection-Lab) | Blue-team lab for security monitoring, log analysis, and alert investigation | SIEM fundamentals, log analysis, Wireshark, attack simulation, detection notes (in progress) |
